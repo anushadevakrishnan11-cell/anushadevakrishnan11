@@ -7,7 +7,7 @@ I am Passionate about transforming  data into meaningful insights using Power BI
  Skills 
 - Power BI ( DAX )
 - SQL ( MY SQL, SQL SERVER )
-- Python ( Numpy, Pandas, Matplotlib )
+- Python ( Numpy, Pandas, Matplotlib , Seaborn)
 - Excel ( Pivot table, Lookup functions ) 
 - Tableau
 - Pandas

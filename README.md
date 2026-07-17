@@ -5,10 +5,10 @@ Aspiring Data Analyst
 I am Passionate about transforming  data into meaningful insights using Power BI, SQL, Python, Excel and Tableau.
 
  Skills 
-- Power BI
-- SQL 
-- Python
-- Excel
+- Power BI ( DAX )
+- SQL ( MY SQL, SQL SERVER )
+- Python ( Numpy, Pandas, Matplotlib )
+- Excel ( Pivot table, Lookup functions ) 
 - Tableau
 - Pandas
 - Matplotlib
